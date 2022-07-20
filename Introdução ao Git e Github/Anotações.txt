@@ -1,0 +1,21 @@
+Comandos do git
+
+dir = listar
+cd / = navegar entre pastas
+cd+pasta especifica
+cd .. = voltar
+cls = limpar a tela
+'cd+letra' + tab = completa a palavra
+mkdir + nome = criar pasta
+echo "hello"(pasta) > hello.txt(arquivo)
+del+nomedapasta = deleta arquivo
+m
+seta p cima = navegar por hist de comandos
+rmdir+pasta /S /Q = remove repositorio
+ls -a - mostra arq ocultos
+git init = cria repositorio
+git status = informações sobre o arquivo
+mv = mover
+git add+nome do arq.
+git add *
+git commit -m "mensagem"
